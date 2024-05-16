@@ -1,39 +1,32 @@
 # Welcome to NexusTechs's GitHub Profile! 👋
-Hey there! I'm NexusTech, or you can name me Arman, a [Your Profession/Interest]. Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from [mention the types of projects you work on, e.g., web development, data analysis, machine learning, etc.]. Feel free to explore, contribute, or even reach out if you have any questions or collaboration ideas!
+Hey there! I'm NexusTech, or you can name me Arman, a Helper, and a programmer. Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from web development, and Python Programs, to websites built in WordPress. Feel free to explore, contribute, or even reach out if you have any questions or collaboration ideas!
 
 # About Me ℹ️
-🔭 I’m currently working on [mention your current project or focus].
-🌱 I’m currently learning [mention what you're learning or interested in].
-💬 Ask me about [mention your areas of expertise or interests].
-📫 How to reach me: [mention your contact details, such as email or social media].
-😄 Pronouns: [mention your preferred pronouns, if applicable].
-⚡ Fun fact: [share a fun fact about yourself].
+* 🔭 I’m working on NexusSurf (old codename StellarSurf).
+* 📫 How to reach me: xavedxub@nexustech.freewebhostmost.com, Spacehey: armannita, Bitview: armannita.
+* 😄 Pronouns: He/him.
+* ⚡ Fun fact: In the early days, I used AI Chatbots to come up with new ideas, and projects.
 # Languages and Tools 🛠️
 Here are some of the languages and tools I frequently use:
 
 * Python
 * Web Development
-* [Language/Tool 3]
+* PyQt! Very useful!
 ...
 # Projects 🚀
 Here are a few highlighted projects:
 
-[Project 1]: Brief description or purpose.
+* NexusSurf: A PyQt5 Based webbrowser.
 
-[Link to project repository or deployed application]
-[Project 2]: Brief description or purpose.
+* Bitview Downloader: DONE! it is a downloader for Bitview.
 
-[Link to project repository or deployed application]
-[Project 3]: Brief description or purpose.
-
-[Link to project repository or deployed application]
+* NTU (Nexus Tech Ultiles): Replacements for Windows apps, that often Spy on you!.
 
 # Let's Connect! 🌐
 Feel free to connect with me on:
+* SpaceHey: ArmanNita
+* Bitview: Armannita
 
-LinkedIn
-Twitter
-Website/Blog
 Thanks for visiting my GitHub profile! Have a great day! 😊
 <!---
 nexustech24/nexustech24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
