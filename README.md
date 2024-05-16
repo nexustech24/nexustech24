@@ -11,9 +11,9 @@ Hey there! I'm NexusTech, or you can name me Arman, a [Your Profession/Interest]
 # Languages and Tools 🛠️
 Here are some of the languages and tools I frequently use:
 
-[Language/Tool 1]
-[Language/Tool 2]
-[Language/Tool 3]
+* Python
+* Web Development
+* [Language/Tool 3]
 ...
 # Projects 🚀
 Here are a few highlighted projects:
