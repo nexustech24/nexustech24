@@ -5,7 +5,7 @@ Hey there! I'm NexusTech, or you can name me Arman, a Helper, and a programmer. 
 * 🔭 I’m working on NexusSurf (old codename StellarSurf).
 * 📫 How to reach me: xavedxub@nexustech.freewebhostmost.com, Spacehey: armannita, Bitview: armannita.
 * 😄 Pronouns: He/him.
-* ⚡ Fun fact: In the early days, I used AI Chatbots to come up with new ideas, and projects.
+* ⚡ Fun fact: In the early days, I used AI Chatbots to develop new ideas, and projects.
 # Languages and Tools 🛠️
 Here are some of the languages and tools I frequently use:
 
@@ -16,7 +16,7 @@ Here are some of the languages and tools I frequently use:
 # Projects 🚀
 Here are a few highlighted projects:
 
-* NexusSurf: A PyQt5 Based webbrowser.
+* Muse (NexusSurf known before): A PyQt5 Based webbrowser.
 
 * Bitview Downloader: DONE! it is a downloader for Bitview.
 
