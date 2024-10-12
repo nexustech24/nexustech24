@@ -3,6 +3,10 @@ Hey there! I'm NexusTech, or you can name me Arman, a Helper, and a programmer. 
 
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=nexustech)](https://git.io/typing-svg)**
 
+# NOTE
+
+Some browsers, like Edge, may say that my complied programs are "malicious" You could look into the source code, it usually happens because the complied exe doesn't have a signature.
+
 # About Me ℹ️
 * 🔭 I’m working on NexusSurf (old codename StellarSurf).
 * 📫 How to reach me: xavedxub@nexustech.freewebhostmost.com, Spacehey: armannita, Bitview: armannita.
