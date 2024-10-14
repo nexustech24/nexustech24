@@ -26,7 +26,7 @@ Here are a few highlighted projects:
 
 * Bitview Downloader: DONE! it is a downloader for Bitview.
 
-* NTU (Nexus Tech Ultiles): Replacements for Windows apps, that often Spy on you!.
+* NTU (Nexus Tech Ultiles): Replacements for Windows apps, that often Spy on you!
 
 # Let's Connect! 🌐
 Feel free to connect with me on:
