@@ -11,7 +11,6 @@ Some browsers, like Edge, may say that my complied programs are "malicious" You 
 * 🔭 I’m working on NexusSurf (old codename StellarSurf).
 * 📫 How to reach me: munitionne@munitionne.serv00.net, Spacehey: armannita, Bitview: armannita.
 * 😄 Pronouns: He/him.
-* ⚡ Fun fact: In the early days, I used AI Chatbots to develop new ideas, and projects.
 # Languages and Tools 🛠️
 Here are some of the languages and tools I frequently use:
 
