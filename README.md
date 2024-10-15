@@ -1,7 +1,7 @@
 # Welcome to NexusTechs's GitHub Profile! 👋
 Hey there! I'm NexusTech, or you can name me Munitionne, a programmer. Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from web development, and Python Programs, to websites built in WordPress. Feel free to explore, contribute, or even reach out if you have any questions or collaboration ideas!
 
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=nexustech)](https://git.io/typing-svg)**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DB607&width=435&lines=munitionne;Follow%2C+and+subsribe%2C+I+don't+force+you;Why+are+you+still+looking+at+this%2C+just+stop+looking+at+this;Bet+you+are+scared+now)](https://git.io/typing-svg)
 
 # NOTE
 
