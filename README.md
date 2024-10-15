@@ -1,5 +1,5 @@
 # Welcome to NexusTechs's GitHub Profile! 👋
-Hey there! I'm NexusTech, or you can name me Arman, a Helper, and a programmer. Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from web development, and Python Programs, to websites built in WordPress. Feel free to explore, contribute, or even reach out if you have any questions or collaboration ideas!
+Hey there! I'm NexusTech, or you can name me Munitionne, a programmer. Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from web development, and Python Programs, to websites built in WordPress. Feel free to explore, contribute, or even reach out if you have any questions or collaboration ideas!
 
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=nexustech)](https://git.io/typing-svg)**
 
