@@ -8,16 +8,9 @@ Hey there! I'm NexusTech, or you can name me Munitionne, a programmer. Welcome t
 Some browsers, like Edge, may say that my complied programs are "malicious" You could look into the source code, it usually happens because the complied exe doesn't have a signature.
 
 # About Me ℹ️
-* 🔭 I’m working on NexusSurf (old codename StellarSurf).
 * 📫 How to reach me: munitionne@munitionne.serv00.net, Spacehey: armannita, Bitview: armannita.
 * 😄 Pronouns: He/him.
-# Languages and Tools 🛠️
-Here are some of the languages and tools I frequently use:
 
-* Python
-* Web Development
-* PyQt! Very useful!
-...
 # Projects 🚀
 Here are a few highlighted projects:
 
@@ -31,6 +24,8 @@ Here are a few highlighted projects:
 Feel free to connect with me on:
 * SpaceHey: ArmanNita
 * Bitview: Armannita
+* Twitter/X: @munitionne
+* Youtube: munitionne
 
 Thanks for visiting my GitHub profile! Have a great day! 😊
 <!---
