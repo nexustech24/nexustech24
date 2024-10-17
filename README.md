@@ -7,7 +7,7 @@ Hey there! I'm NexusTech, or you can name me Munitionne, a programmer. Welcome t
 Some browsers, like Edge, may say that my complied programs are "malicious" You could look into the source code, it usually happens because the complied exe doesn't have a signature.
 
 # About Me 
-* How to reach me: munitionne@munitionne.serv00.net, Spacehey: armannita, Bitview: armannita.
+* How to reach me: E-Mail: munitionne@munitionne.serv00.net
 * Pronouns: He/him.
 
 # Projects
