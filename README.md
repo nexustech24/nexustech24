@@ -27,7 +27,7 @@ Feel free to connect with me on:
 * Twitter/X: @munitionne
 * Youtube: munitionne
 
-Thanks for visiting my GitHub profile! Have a great day! 😊
+Thanks for visiting my GitHub profile! Have a great day! 
 <!---
 nexustech24/nexustech24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
