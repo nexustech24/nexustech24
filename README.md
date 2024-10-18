@@ -2,7 +2,6 @@
 
 * 👋 Hi, I’m @nexustech24
 * 👀 I’m interested in Coding and IT
-* 💞️ I’m looking to collaborate on I Don't Know
 * 📫 How to reach me: munitionne@munitionne.serv00.net
 * 😄 Pronouns: He/him
 * ⚡ Fun fact: I'm messing around with old tech
