@@ -1,33 +1,22 @@
-# Welcome to NexusTechs's GitHub Profile! 
-Hey there! I'm NexusTech, or you can name me Munitionne, a programmer. Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from web development, and Python Programs, to websites built in WordPress. Feel free to explore, contribute, or even reach out if you have any questions or collaboration ideas!
+# Welcome to my Github Profile!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F8808&width=435&lines=Welcome+to+munitionne;Follow+me%2C+I+don't+force+you;I+like+tf2)](https://git.io/typing-svg)
 # NOTE
 
-Some browsers, like Edge, may say that my complied programs are "malicious" You could look into the source code, it usually happens because the complied exe doesn't have a signature.
+Some browsers, like Edge, may say that my compiled programs are "malicious." You could look into the source code. This usually happens because the compiled exe doesn't have a signature.
 
-# About Me 
-* How to reach me: E-Mail: munitionne@munitionne.serv00.net
-* Pronouns: He/him.
 
-# Projects
-Here are a few highlighted projects:
+* 👋 Hi, I’m @armansite
+* 👀 I’m interested in Coding and IT
+* 🌱 I’m currently learning Python and C#
+* 💞️ I’m looking to collaborate on I Don't Know
+* 📫 How to reach me: munitionne@munitionne.serv00.net
+* 😄 Pronouns: He/him
+* ⚡ Fun fact: I'm messing around with old tech
 
-* Muse (NexusSurf known before): A PyQt5 Based webbrowser.
 
-* Bitview Downloader: DONE! it is a downloader for Bitview.
 
-* NTU (Nexus Tech Ultiles): Replacements for Windows apps, that often Spy on you!
 
-# Let's Connect!
-Feel free to connect with me on:
-* SpaceHey: munitionne
-* Bluesky: muniti.bsky.social
-* Bitview: Armannita
-* Twitter/X: @munitionne
-* Youtube: munitionne
-
-Thanks for visiting my GitHub profile! Have a great day! 
 <!---
 nexustech24/nexustech24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
