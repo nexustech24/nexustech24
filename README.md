@@ -11,6 +11,9 @@
 
 Some browsers, like Edge, may say that my compiled programs are "malicious." You could look into the source code. This usually happens because the compiled exe doesn't have a signature.
 
+# What I like to do in my free time
+
+I love playing TF2, animating in Source Filmmaker, and editing videos in DaVinci Resolve. I also code sometimes
 
 
 
