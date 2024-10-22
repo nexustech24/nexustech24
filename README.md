@@ -4,7 +4,7 @@
 * 👀 I’m interested in Coding and IT
 * 📫 How to reach me: munitionne@munitionne.serv00.net
 * 😄 Pronouns: He/him
-* ⚡ Fun fact: I'm messing around with old tech
+* ⚡ Fun fact: I don't know what to put here
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F8808&width=435&lines=Welcome+to+munitionne;Follow+me%2C+I+don't+force+you;I+like+tf2)](https://git.io/typing-svg)
 # NOTE
