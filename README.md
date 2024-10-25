@@ -13,7 +13,7 @@ Some browsers, like Edge, may say that my compiled programs are "malicious." You
 
 # What I like to do in my free time
 
-I love playing TF2, animating in Source Filmmaker, and editing videos in DaVinci Resolve. I also code sometimes
+I love playing TF2, animating in Source Filmmaker, and editing videos in DaVinci Resolve. I also code sometimes.
 
 # Stats
 
