@@ -15,7 +15,7 @@ Some browsers, like Edge, may say that my compiled programs are "malicious." You
 
 I love playing TF2, animating in Source Filmmaker, and editing videos in DaVinci Resolve. I also code sometimes.
 
-# Stats
+# Useless Stats
 
 ![nexustech24's Stats](https://github-readme-stats.vercel.app/api?username=nexustech24&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![nexustech24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nexustech24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
