@@ -6,7 +6,7 @@
 * 😄 Pronouns: He/him
 * ⚡ Fun fact: I don't know what to put here
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F8808&width=435&lines=Welcome+to+munitionne;Follow+me%2C+I+don't+force+you;I+like+tf2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+this+GitHub+account;also+go+shower;and+have+a+nice+day;enjoy+life;Don't+kill+yourself;love+yourself)](https://git.io/typing-svg)
 # NOTE
 
 Some browsers, like Edge, may say that my compiled programs are "malicious." You could look into the source code. This usually happens because the compiled exe doesn't have a signature.
